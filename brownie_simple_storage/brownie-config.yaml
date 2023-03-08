@@ -1,0 +1,3 @@
+dotenv: .env
+wallets:
+    from_key: 165f321b77d0293c533a7f6eabc1fa7c4efdc5a644b3d6bc1e382cf848705ec8
